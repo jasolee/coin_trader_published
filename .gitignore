@@ -1,0 +1,7 @@
+coinbase.csv
+coinbaseUSD.gz
+__pycache__
+*.pyc
+testLoops.py
+test_arbitrage_client.py
+Analysis
